@@ -1,3 +1,15 @@
+*COMPANY*: CODTECHIT SOLUTIONS
+
+*NAME*: SHAH MEGH BHAVINKUMAR
+
+*INTERN ID*: CT04DL906
+
+*DOMAIN*: CYBERSECURITY AND ETHICAL HACKING
+
+*DURATION*: 1 MONTH
+
+*MENTOR*: NEELA SANTHOSH KUMAR
+
 # Penetration Testing Toolkit
 
 A modular penetration testing toolkit developed in Python, designed to help security enthusiasts and professionals perform basic penetration testing tasks.  
